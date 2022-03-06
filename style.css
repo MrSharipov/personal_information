@@ -1,0 +1,29 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container form
+{
+    display: flex;
+    justify-content: space-around;
+}
+.box {
+    display: flex;
+    justify-content: space-between;
+    
+}
+ul
+{
+    list-style-type: none;
+
+}
